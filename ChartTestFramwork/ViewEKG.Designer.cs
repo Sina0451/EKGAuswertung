@@ -1,4 +1,4 @@
-﻿namespace ChartTestFramwork
+﻿namespace ECGTestNovember2026
 {
     partial class ViewECG
     {

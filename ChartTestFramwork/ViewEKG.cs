@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace ChartTestFramwork
+namespace ECGTestNovember2026
 {
     public partial class ViewECG : Form, IViewECG
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ChartTestFramwork
+namespace ECGTestNovember2026
 {
     public class ECGDataRecievedEventArgs : EventArgs
     {

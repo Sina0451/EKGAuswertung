@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ChartTestFramwork.Properties
+namespace ECGTestNovember2026.Properties
 {
 
 

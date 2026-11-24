@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static ChartTestFramwork.ModelECGDevice;
+using static ECGTestNovember2026.ModelECGDevice;
 
-namespace ChartTestFramwork
+namespace ECGTestNovember2026
 {
     internal interface IModelECGDevice
     {

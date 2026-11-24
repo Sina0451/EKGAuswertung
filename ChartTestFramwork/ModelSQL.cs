@@ -8,7 +8,7 @@ using System.Windows.Forms;
 //using MySql.Data.MySqlClient;
 
 
-namespace ChartTestFramwork
+namespace ECGTestNovember2026
 {
     internal class ModelSQL //: IModelLocalData
     {

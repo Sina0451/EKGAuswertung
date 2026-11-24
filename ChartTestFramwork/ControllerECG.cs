@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static ChartTestFramwork.ModelECGDevice;
+using static ECGTestNovember2026.ModelECGDevice;
 
-namespace ChartTestFramwork
+namespace ECGTestNovember2026
 {
     internal class ControllerECG : IControllerECG
     {
